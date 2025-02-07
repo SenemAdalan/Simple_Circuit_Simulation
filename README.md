@@ -5,7 +5,7 @@ Bu proje, Python ve Tkinter kullanılarak geliştirilen basit bir **Mantık Devr
 - **Son Güncelleme:** 7 Şubat 2025  
 
 ## 🎯 Projenin Amacı
-Bu projenin amacı, basit mantık devrelerini tasarlamak için bir platform geliştirmektir. Kullanıcı, mantık kapıları, giriş-çıkış elemanları ve bağlantı elemanlarını ekleyerek devreler oluşturabilir ve simülasyon aracılığıyla doğruluklarını test edebilir.
+Bu projenin amacı basit mantık devrelerini tasarlamak için bir platform geliştirmektir. Kullanıcı, mantık kapıları, giriş-çıkış elemanları ve bağlantı elemanlarını ekleyerek devreler oluşturabilir ve simülasyon aracılığıyla doğruluklarını test edebilir.
 
 ## 🚀 Özellikler
 - **Mantık Kapıları:** AND, OR, NOT, NAND gibi kapılar eklenebilir.
