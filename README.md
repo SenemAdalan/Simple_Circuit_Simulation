@@ -45,12 +45,14 @@ python main.py
 ### Başlangıç Ekranı
 ![Image](https://github.com/user-attachments/assets/bb7170fa-a7ec-4d19-ba8b-a85bc98df25b)
 
+
 ### Gate Ekleme İşlemleri
 ![Image](https://github.com/user-attachments/assets/c121af86-d480-4d6a-8576-b0b7e88dd98e)
 
 ![Image](https://github.com/user-attachments/assets/838421d4-fc09-4365-99f2-bb7616f568af)
 
 ![Image](https://github.com/user-attachments/assets/099cbb32-c829-44c0-9ecd-13bee0960ce0)
+
 
 ### Giriş-Çıkış Elemanları Özellik Ekranı
 ![Image](https://github.com/user-attachments/assets/da1f135f-add5-4539-8a65-5de6fb6179ef)
